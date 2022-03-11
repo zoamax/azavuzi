@@ -22,3 +22,5 @@ Tont in ait.
 Tont in gor.
 
 Tont in tovc.
+
+Tont in wai.
